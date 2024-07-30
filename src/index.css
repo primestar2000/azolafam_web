@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+  font-family: "YesevaOne";
+  src: url("./assets/fonts/YesevaOne-Regular.ttf");
+}
+
+@font-face {
+  font-family: "Lato";
+  src: url("./assets/fonts/Lato-Regular.ttf");
+}
+
+body{
+  font-family: "Lato";
+}
